@@ -1,7 +1,8 @@
 <div align="center"> 
   <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/dpunky/count.svg" alt="Visitor's Count" />
+<img src="https://profile-counter.deno.dev/dpunky/count.svg" alt="Key:: Visitor's Count" />
 </div>
+
 
 <!--
 **dpunky/dpunky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
